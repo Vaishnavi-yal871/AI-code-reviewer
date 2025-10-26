@@ -1,0 +1,4 @@
+﻿streamlit
+black
+flake8
+radon
